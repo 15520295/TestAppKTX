@@ -48,4 +48,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     void m1(){
 
     }
+
+    public void Test()
+    {
+
+    }
 }
